@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "spotify-group-project"
+version = "0.1.0"
+description = "Spotify Group Project"
+authors = ["Elizabeth Lim <lim443@purdue.edu>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.0"
+numpy = "^1.26.0"
+matplotlib = "^3.10.8"
+seaborn = "^0.13.2"
+statsmodels = "^0.14.6"
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+ipykernel = "^6.29.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

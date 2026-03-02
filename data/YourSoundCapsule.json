@@ -1,0 +1,418 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Patek",
+      "streamCount" : 3,
+      "secondsPlayed" : 840
+    }, {
+      "name" : "XO Tour Llif3",
+      "streamCount" : 3,
+      "secondsPlayed" : 546
+    }, {
+      "name" : "Location",
+      "streamCount" : 3,
+      "secondsPlayed" : 445
+    }, {
+      "name" : "I Get the Bag (feat. Migos)",
+      "streamCount" : 2,
+      "secondsPlayed" : 442
+    }, {
+      "name" : "White Iverson",
+      "streamCount" : 2,
+      "secondsPlayed" : 431
+    }, {
+      "name" : "Fair Trade (with Travis Scott)",
+      "streamCount" : 2,
+      "secondsPlayed" : 411
+    }, {
+      "name" : "Jungle",
+      "streamCount" : 2,
+      "secondsPlayed" : 357
+    }, {
+      "name" : "Sauce It Up",
+      "streamCount" : 2,
+      "secondsPlayed" : 334
+    }, {
+      "name" : "bleach",
+      "streamCount" : 2,
+      "secondsPlayed" : 284
+    }, {
+      "name" : "drive ME crazy!",
+      "streamCount" : 2,
+      "secondsPlayed" : 247
+    } ],
+    "topArtists" : [ {
+      "name" : "J. Cole",
+      "streamCount" : 21,
+      "secondsPlayed" : 4758
+    }, {
+      "name" : "Lil Uzi Vert",
+      "streamCount" : 18,
+      "secondsPlayed" : 3125
+    }, {
+      "name" : "Drake",
+      "streamCount" : 12,
+      "secondsPlayed" : 1749
+    }, {
+      "name" : "Travis Scott",
+      "streamCount" : 10,
+      "secondsPlayed" : 1883
+    }, {
+      "name" : "Don Toliver",
+      "streamCount" : 7,
+      "secondsPlayed" : 1271
+    }, {
+      "name" : "Playboi Carti",
+      "streamCount" : 7,
+      "secondsPlayed" : 1007
+    }, {
+      "name" : "Future",
+      "streamCount" : 7,
+      "secondsPlayed" : 1544
+    }, {
+      "name" : "Baby Keem",
+      "streamCount" : 6,
+      "secondsPlayed" : 870
+    }, {
+      "name" : "Post Malone",
+      "streamCount" : 5,
+      "secondsPlayed" : 861
+    }, {
+      "name" : "Lil Yachty",
+      "streamCount" : 4,
+      "secondsPlayed" : 550
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Sundress",
+      "streamCount" : 3,
+      "secondsPlayed" : 267
+    }, {
+      "name" : "Passionfruit",
+      "streamCount" : 2,
+      "secondsPlayed" : 480
+    }, {
+      "name" : "Fair Trade (with Travis Scott)",
+      "streamCount" : 2,
+      "secondsPlayed" : 476
+    }, {
+      "name" : "Apple Pie",
+      "streamCount" : 2,
+      "secondsPlayed" : 390
+    }, {
+      "name" : "FOR FUN",
+      "streamCount" : 2,
+      "secondsPlayed" : 376
+    }, {
+      "name" : "him all along",
+      "streamCount" : 2,
+      "secondsPlayed" : 316
+    }, {
+      "name" : "Kesariya",
+      "streamCount" : 2,
+      "secondsPlayed" : 297
+    }, {
+      "name" : "2000 EXCURSION",
+      "streamCount" : 2,
+      "secondsPlayed" : 263
+    }, {
+      "name" : "No Idea",
+      "streamCount" : 2,
+      "secondsPlayed" : 194
+    }, {
+      "name" : "TWIN TRIM (with Lil Uzi Vert)",
+      "streamCount" : 2,
+      "secondsPlayed" : 188
+    } ],
+    "topArtists" : [ {
+      "name" : "Drake",
+      "streamCount" : 14,
+      "secondsPlayed" : 2734
+    }, {
+      "name" : "Don Toliver",
+      "streamCount" : 16,
+      "secondsPlayed" : 2193
+    }, {
+      "name" : "Travis Scott",
+      "streamCount" : 17,
+      "secondsPlayed" : 2980
+    }, {
+      "name" : "Lil Uzi Vert",
+      "streamCount" : 15,
+      "secondsPlayed" : 2768
+    }, {
+      "name" : "Playboi Carti",
+      "streamCount" : 12,
+      "secondsPlayed" : 1817
+    }, {
+      "name" : "Pritam",
+      "streamCount" : 9,
+      "secondsPlayed" : 1009
+    }, {
+      "name" : "Future",
+      "streamCount" : 9,
+      "secondsPlayed" : 1218
+    }, {
+      "name" : "Arijit Singh",
+      "streamCount" : 12,
+      "secondsPlayed" : 1456
+    }, {
+      "name" : "Gunna",
+      "streamCount" : 6,
+      "secondsPlayed" : 811
+    }, {
+      "name" : "Juice WRLD",
+      "streamCount" : 5,
+      "secondsPlayed" : 664
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "20 Min",
+      "streamCount" : 4,
+      "secondsPlayed" : 641
+    }, {
+      "name" : "Jungle",
+      "streamCount" : 3,
+      "secondsPlayed" : 753
+    }, {
+      "name" : "Sanguine Paradise",
+      "streamCount" : 3,
+      "secondsPlayed" : 646
+    }, {
+      "name" : "Neon Guts (feat. Pharrell Williams)",
+      "streamCount" : 3,
+      "secondsPlayed" : 579
+    }, {
+      "name" : "Too Many Nights (feat. Don Toliver & with Future)",
+      "streamCount" : 3,
+      "secondsPlayed" : 447
+    }, {
+      "name" : "Feel No Ways",
+      "streamCount" : 2,
+      "secondsPlayed" : 443
+    }, {
+      "name" : "Apple Pie",
+      "streamCount" : 2,
+      "secondsPlayed" : 436
+    }, {
+      "name" : "Woah",
+      "streamCount" : 2,
+      "secondsPlayed" : 366
+    }, {
+      "name" : "P2",
+      "streamCount" : 2,
+      "secondsPlayed" : 352
+    }, {
+      "name" : "Fashion Killa",
+      "streamCount" : 2,
+      "secondsPlayed" : 337
+    } ],
+    "topArtists" : [ {
+      "name" : "Lil Uzi Vert",
+      "streamCount" : 23,
+      "secondsPlayed" : 4211
+    }, {
+      "name" : "Drake",
+      "streamCount" : 16,
+      "secondsPlayed" : 3107
+    }, {
+      "name" : "Travis Scott",
+      "streamCount" : 21,
+      "secondsPlayed" : 3327
+    }, {
+      "name" : "Playboi Carti",
+      "streamCount" : 13,
+      "secondsPlayed" : 1775
+    }, {
+      "name" : "Future",
+      "streamCount" : 15,
+      "secondsPlayed" : 2041
+    }, {
+      "name" : "Don Toliver",
+      "streamCount" : 13,
+      "secondsPlayed" : 1820
+    }, {
+      "name" : "Metro Boomin",
+      "streamCount" : 9,
+      "secondsPlayed" : 1400
+    }, {
+      "name" : "Lil Baby",
+      "streamCount" : 7,
+      "secondsPlayed" : 956
+    }, {
+      "name" : "A$AP Rocky",
+      "streamCount" : 6,
+      "secondsPlayed" : 821
+    }, {
+      "name" : "Juice WRLD",
+      "streamCount" : 5,
+      "secondsPlayed" : 963
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-08",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "J. Cole",
+      "listeningPercentage" : 23.946851879812776
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Travis Scott",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Neon Guts (feat. Pharrell Williams)",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "\uD83D\uDEE9️\uD83C\uDFE2\uD83C\uDFE2\uD83D\uDCA5\uD83D\uDCA5",
+      "listeningPercentage" : 77.1519592226824
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Lil Uzi Vert",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Travis Scott", "Lil Uzi Vert", "Future", "90210 (feat. Kacy Hill)", "FOR FUN", "Bad and Boujee (feat. Lil Uzi Vert)", "Clarity", "Too Many Nights (feat. Don Toliver & with Future)", "20 Min" ],
+      "milestoneListeningSeconds" : 29836
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Hindi Bops",
+      "listeningPercentage" : 32.34453861536997
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "20 Min",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Future",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Travis Scott",
+      "country" : "US",
+      "secondsPlayed" : 5120,
+      "marketAvgSecondsPlayed" : 909.34924
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Blvck Svm",
+      "secondEntity" : "Rashmi Virag"
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Drake",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "\uD83D\uDEE9️\uD83C\uDFE2\uD83C\uDFE2\uD83D\uDCA5\uD83D\uDCA5",
+      "listeningPercentage" : 77.36188052103608
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "\uD83D\uDEE9️\uD83C\uDFE2\uD83C\uDFE2\uD83D\uDCA5\uD83D\uDCA5",
+      "milestoneListeningSeconds" : 29395
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Lil Uzi Vert",
+      "listeningPercentage" : 21.98130994343799
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Mithoon",
+      "secondEntity" : "Sheri A"
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Future",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Lil Uzi Vert",
+      "country" : "US",
+      "secondsPlayed" : 6031,
+      "marketAvgSecondsPlayed" : 757.6394
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Blvck Svm",
+      "secondEntity" : "Arijit Singh"
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Travis Scott",
+      "country" : "US",
+      "secondsPlayed" : 5089,
+      "marketAvgSecondsPlayed" : 918.0374
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "\uD83D\uDEE9️\uD83C\uDFE2\uD83C\uDFE2\uD83D\uDCA5\uD83D\uDCA5",
+      "listeningPercentage" : 70.97602739726028
+    }
+  } ]
+}
