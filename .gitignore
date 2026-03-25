@@ -1,39 +1,25 @@
-# Python / Poetry
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Poetry virtual environments
-/.venv/
-*.venv/
-.venv/
-.venv/**
-
-# Poetry lock file is tracked (we want this!), but caches can be ignored
-poetry.lock
-*.egg-info/
-dist/
-build/
-
-
-# Jupyter Notebook
-# Checkpoints
-.ipynb_checkpoints/
-
-
-# macOS
+# macOS system files
 .DS_Store
 
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
-# VS Code
-.vscode/
+# Poetry virtual environments
+.env
+.venv
+# (or your Poetry virtualenv path if inside project)
 
+# Jupyter checkpoints
+.ipynb_checkpoints/
 
-# Data files
-# Ignore all data files by default; track only what you want in Git
-data/*.csv
-# Keep the sample for collaboration
-!data/sample.csv
-data/*.json
-data/*.parquet
+# Data files (keep out of Git for privacy or size)
+data/*
+
+# Logs
+*.log
+
+# Poetry lock file (optional: you may want to track this)
+# poetry.lock
