@@ -1,0 +1,17 @@
+{
+  "username": "kristinefloyd",
+  "email": "garciajamie@example.com",
+  "country": "US",
+  "createdFromFacebook": false,
+  "facebookUid": null,
+  "birthdate": "1999-12-14",
+  "gender": "female",
+  "postalCode": null,
+  "mobileNumber": null,
+  "mobileOperator": null,
+  "mobileBrand": null,
+  "creationTime": "2013-09-26",
+  "assuredEstimatedAge": null,
+  "assuredAgeMethod": null,
+  "assuredAgeTimestamp": null
+}

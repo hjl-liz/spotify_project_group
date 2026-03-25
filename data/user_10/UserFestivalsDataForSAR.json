@@ -1,0 +1,19 @@
+{
+  "festivalId" : "govball2026",
+  "userId" : "c4bc5ec258234bc7b64d8f575c3f788f",
+  "totalArtistsMatched" : 20,
+  "userLineupMatchPercentile" : 8,
+  "festivalPersona" : "WRISTBAND VETERAN",
+  "topArtists" : [ {
+    "name" : "Blood Orange"
+  }, {
+    "name" : "Thee Sacred Souls"
+  }, {
+    "name" : "Japanese Breakfast"
+  }, {
+    "name" : "Clipse"
+  }, {
+    "name" : "Wisp"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}

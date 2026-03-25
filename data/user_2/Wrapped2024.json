@@ -1,0 +1,133 @@
+{
+  "topArtists": {
+    "numUniqueArtists": 1348,
+    "topArtists": [
+      {
+        "artistUri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      },
+      {
+        "artistUri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "artistUri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+      },
+      {
+        "artistUri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "artistUri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+      }
+    ],
+    "topArtistMilliseconds": 130253694,
+    "topArtistFanPercentage": 0.019351033
+  },
+  "topPodcasts": {
+    "topPodcastsUri": [
+    ],
+    "topPodcastPercentage": 0.0,
+    "totalPodcastMilliseconds": 9068968
+  },
+  "topTracks": {
+    "topTracks": [
+      "spotify:track:7sTyAjxDXq9afwfSQy6D0s",
+      "spotify:track:4KULAymBBJcPRpk1yO4dOG",
+      "spotify:track:2AFtuddFzafFChO3RDnB51",
+      "spotify:track:50Emgupm363qIrYBe20FR3",
+      "spotify:track:5tEaVciE2GnR28aN6W9cLS"
+    ],
+    "topTrackPlayCount": 41,
+    "topTrackFirstPlayedDate": "2024-02-05",
+    "distinctTracksPlayed": 2344
+  },
+  "yearlyMetrics": {
+    "totalMsListened": 1971636184,
+    "mostListenedDay": "2024-02-10",
+    "mostListenedDayMinutes": 366.67435,
+    "percentGreaterThanWorldwideUsers": 90.37292
+  },
+  "musicEvolution": {
+    "eras": [
+      {
+        "key": "0",
+        "peakMonth": 2,
+        "color": "red-green",
+        "genre": "rap",
+        "mood": "boujee",
+        "descriptor": "football",
+        "pivotalArtists": [
+          "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+          "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY",
+          "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+        ],
+        "tracks": [
+          {
+            "trackName": "BANDIT",
+            "trackUri": "spotify:track:7sTyAjxDXq9afwfSQy6D0s"
+          },
+          {
+            "trackName": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+            "trackUri": "spotify:track:1yeB8MUNeLo9Ek1UEpsyz6"
+          },
+          {
+            "trackName": "FUK SUMN",
+            "trackUri": "spotify:track:5tEaVciE2GnR28aN6W9cLS"
+          }
+        ]
+      },
+      {
+        "key": "1",
+        "peakMonth": 7,
+        "color": "red-yellow",
+        "genre": "sad country",
+        "mood": "pumpkin spice",
+        "descriptor": "western",
+        "pivotalArtists": [
+          "spotify:artist:40ZNYROS4zLfyyBSs2PGe2",
+          "spotify:artist:13ZEDW6vyBF12HYcZRr4EV",
+          "spotify:artist:3444S3C4U9Ts86BnCtSPRV"
+        ],
+        "tracks": [
+          {
+            "trackName": "Tishomingo",
+            "trackUri": "spotify:track:1TsiwVwHhLgVK8sxBchINM"
+          },
+          {
+            "trackName": "Snow",
+            "trackUri": "spotify:track:6K4336phprB3Mj8qwYxibR"
+          },
+          {
+            "trackName": "Letting Someone Go",
+            "trackUri": "spotify:track:6Wxx1jXr6EyGdt8RuYFzvj"
+          }
+        ]
+      },
+      {
+        "key": "2",
+        "peakMonth": 10,
+        "color": "yellow",
+        "genre": "pop",
+        "mood": "mcbling",
+        "descriptor": "hollywood",
+        "pivotalArtists": [
+          "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H",
+          "spotify:artist:6jJ0s89eD6GaHleKKya26X",
+          "spotify:artist:6LqNN22kT3074XbTVUrhzX"
+        ],
+        "tracks": [
+          {
+            "trackName": "BIRDS OF A FEATHER",
+            "trackUri": "spotify:track:6dOtVTDdiauQNBQEDOtlAB"
+          },
+          {
+            "trackName": "Umbrella",
+            "trackUri": "spotify:track:2yPoXCs7BSIUrucMdK5PzV"
+          },
+          {
+            "trackName": "Boom Clap",
+            "trackUri": "spotify:track:0Y1MWB026LYxGvhq4EcMiC"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "think you're someone new",
+      "streamCount" : 12,
+      "secondsPlayed" : 1804
+    }, {
+      "name" : "crystallized (feat. Inéz) - Subtronics Remix",
+      "streamCount" : 12,
+      "secondsPlayed" : 2289
+    }, {
+      "name" : "i'm feeling low again",
+      "streamCount" : 10,
+      "secondsPlayed" : 1784
+    }, {
+      "name" : "Weekend (feat. Miguel)",
+      "streamCount" : 7,
+      "secondsPlayed" : 1421
+    }, {
+      "name" : "Instant Crush (feat. Julian Casablancas)",
+      "streamCount" : 3,
+      "secondsPlayed" : 979
+    }, {
+      "name" : "Fitzpleasure",
+      "streamCount" : 3,
+      "secondsPlayed" : 624
+    }, {
+      "name" : "Backseat",
+      "streamCount" : 2,
+      "secondsPlayed" : 766
+    }, {
+      "name" : "Bitter Sweet Symphony - Remastered 2016",
+      "streamCount" : 2,
+      "secondsPlayed" : 425
+    }, {
+      "name" : "Don't You Worry Child - Radio Edit",
+      "streamCount" : 2,
+      "secondsPlayed" : 424
+    }, {
+      "name" : "we stayed up all night",
+      "streamCount" : 2,
+      "secondsPlayed" : 399
+    } ],
+    "topArtists" : [ {
+      "name" : "Ian Asher",
+      "streamCount" : 20,
+      "secondsPlayed" : 2636
+    }, {
+      "name" : "John Summit",
+      "streamCount" : 16,
+      "secondsPlayed" : 2882
+    }, {
+      "name" : "Aylone",
+      "streamCount" : 10,
+      "secondsPlayed" : 1784
+    }, {
+      "name" : "Mac Miller",
+      "streamCount" : 8,
+      "secondsPlayed" : 1630
+    }, {
+      "name" : "Subtronics",
+      "streamCount" : 12,
+      "secondsPlayed" : 2289
+    }, {
+      "name" : "Arden Jones",
+      "streamCount" : 12,
+      "secondsPlayed" : 1804
+    }, {
+      "name" : "Miguel",
+      "streamCount" : 10,
+      "secondsPlayed" : 1870
+    }, {
+      "name" : "Daft Punk",
+      "streamCount" : 5,
+      "secondsPlayed" : 1094
+    }, {
+      "name" : "Łaszewo",
+      "streamCount" : 5,
+      "secondsPlayed" : 772
+    }, {
+      "name" : "BUNT.",
+      "streamCount" : 5,
+      "secondsPlayed" : 712
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Fitzpleasure",
+      "streamCount" : 7,
+      "secondsPlayed" : 1418
+    }, {
+      "name" : "Breezeblocks",
+      "streamCount" : 5,
+      "secondsPlayed" : 692
+    }, {
+      "name" : "Lost My Mind (Wake Up)",
+      "streamCount" : 3,
+      "secondsPlayed" : 479
+    }, {
+      "name" : "Out of My League",
+      "streamCount" : 2,
+      "secondsPlayed" : 418
+    }, {
+      "name" : "Enchanted",
+      "streamCount" : 2,
+      "secondsPlayed" : 351
+    }, {
+      "name" : "Somebody To Love - Remastered 2011",
+      "streamCount" : 2,
+      "secondsPlayed" : 296
+    }, {
+      "name" : "Up And Down",
+      "streamCount" : 2,
+      "secondsPlayed" : 243
+    }, {
+      "name" : "Come a Little Closer",
+      "streamCount" : 2,
+      "secondsPlayed" : 229
+    }, {
+      "name" : "Creatures in Heaven",
+      "streamCount" : 2,
+      "secondsPlayed" : 220
+    }, {
+      "name" : "bad guy",
+      "streamCount" : 2,
+      "secondsPlayed" : 193
+    } ],
+    "topArtists" : [ {
+      "name" : "alt-J",
+      "streamCount" : 20,
+      "secondsPlayed" : 3321
+    }, {
+      "name" : "Zach Bryan",
+      "streamCount" : 13,
+      "secondsPlayed" : 2256
+    }, {
+      "name" : "Twenty One Pilots",
+      "streamCount" : 7,
+      "secondsPlayed" : 1445
+    }, {
+      "name" : "Lorde",
+      "streamCount" : 7,
+      "secondsPlayed" : 1187
+    }, {
+      "name" : "Lana Del Rey",
+      "streamCount" : 6,
+      "secondsPlayed" : 1494
+    }, {
+      "name" : "Taylor Swift",
+      "streamCount" : 6,
+      "secondsPlayed" : 1348
+    }, {
+      "name" : "Billie Eilish",
+      "streamCount" : 6,
+      "secondsPlayed" : 1102
+    }, {
+      "name" : "Swedish House Mafia",
+      "streamCount" : 6,
+      "secondsPlayed" : 952
+    }, {
+      "name" : "BUNT.",
+      "streamCount" : 6,
+      "secondsPlayed" : 895
+    }, {
+      "name" : "Cage The Elephant",
+      "streamCount" : 5,
+      "secondsPlayed" : 727
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "It Will Rain",
+      "streamCount" : 2,
+      "secondsPlayed" : 514
+    }, {
+      "name" : "Anxiety",
+      "streamCount" : 2,
+      "secondsPlayed" : 455
+    }, {
+      "name" : "The Fall",
+      "streamCount" : 2,
+      "secondsPlayed" : 372
+    }, {
+      "name" : "Die For You",
+      "streamCount" : 2,
+      "secondsPlayed" : 291
+    }, {
+      "name" : "26",
+      "streamCount" : 2,
+      "secondsPlayed" : 235
+    }, {
+      "name" : "The Days - NOTION Remix",
+      "streamCount" : 2,
+      "secondsPlayed" : 232
+    }, {
+      "name" : "Say No to This",
+      "streamCount" : 2,
+      "secondsPlayed" : 544
+    }, {
+      "name" : "Home",
+      "streamCount" : 2,
+      "secondsPlayed" : 309
+    }, {
+      "name" : "Naive",
+      "streamCount" : 2,
+      "secondsPlayed" : 202
+    }, {
+      "name" : "TELEKINESIS (feat. SZA & Future)",
+      "streamCount" : 1,
+      "secondsPlayed" : 353
+    } ],
+    "topArtists" : [ {
+      "name" : "Taylor Swift",
+      "streamCount" : 6,
+      "secondsPlayed" : 1486
+    }, {
+      "name" : "Kanye West",
+      "streamCount" : 5,
+      "secondsPlayed" : 965
+    }, {
+      "name" : "Caamp",
+      "streamCount" : 4,
+      "secondsPlayed" : 550
+    }, {
+      "name" : "Harry Styles",
+      "streamCount" : 3,
+      "secondsPlayed" : 505
+    }, {
+      "name" : "Cage The Elephant",
+      "streamCount" : 3,
+      "secondsPlayed" : 462
+    }, {
+      "name" : "Lana Del Rey",
+      "streamCount" : 3,
+      "secondsPlayed" : 388
+    }, {
+      "name" : "Leslie Odom Jr.",
+      "streamCount" : 3,
+      "secondsPlayed" : 845
+    }, {
+      "name" : "Jasmine Cephas-Jones",
+      "streamCount" : 2,
+      "secondsPlayed" : 544
+    }, {
+      "name" : "Bruno Mars",
+      "streamCount" : 2,
+      "secondsPlayed" : 514
+    }, {
+      "name" : "Noah Kahan",
+      "streamCount" : 2,
+      "secondsPlayed" : 508
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-08",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Time After Time",
+      "country" : "US",
+      "position" : 7723
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Fitzpleasure",
+      "streamCount" : 7
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Taylor Swift", "Original Broadway Cast of Hamilton", "Kanye West", "Say No to This", "It Will Rain", "Anxiety", "The Fall", "Starved", "TELEKINESIS (feat. SZA & Future)" ],
+      "milestoneListeningSeconds" : 30457
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Harry Styles", "Kanye West", "Ian Asher", "Desire", "Margaret (feat. Bleachers)", "Runaway", "Love On The Brain", "Miss You - Bonus Track", "Clouds" ],
+      "milestoneListeningSeconds" : 41410
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Imaginationcy",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
+      "listeningPercentage" : 39.08155097634072
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Zach Bryan", "Noah Kahan", "Beach House", "Space Song", "28", "Your Song", "Meet Me In The Woods", "Black Out Days (Stay Away)", "Fool's Gold" ],
+      "milestoneListeningSeconds" : 55611
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Taylor Swift",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Black Out Days (Stay Away)",
+      "streamCount" : 7
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "Ordinary",
+      "country" : "US",
+      "position" : 19,
+      "previousPosition" : 6,
+      "numberOfListeners" : 3578058
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Your Song",
+      "streamCount" : 11
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "WHERE IS MY HUSBAND!",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "28",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
+      "listeningPercentage" : 50.2760636570315
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Gracie Abrams", "Lana Del Rey", "Taylor Swift", "I know it won't work", "Say It", "Amsterdam", "It Was A Sin", "Sun", "Fire for You" ],
+      "milestoneListeningSeconds" : 45979
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Charli xcx",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Say It",
+      "streamCount" : 12
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1E8L46AYNW5aaj",
+      "listeningPercentage" : 43.72873199738769
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Taylor Swift",
+      "country" : "US",
+      "secondsPlayed" : 8434,
+      "marketAvgSecondsPlayed" : 4318.266
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Sun",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "The Revivalists",
+      "dayStreaks" : 5
+    }
+  } ]
+}

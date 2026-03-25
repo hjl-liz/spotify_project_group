@@ -1,0 +1,407 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "double take",
+      "streamCount" : 3,
+      "secondsPlayed" : 514
+    }, {
+      "name" : "修煉愛情",
+      "streamCount" : 3,
+      "secondsPlayed" : 363
+    }, {
+      "name" : "One Dance",
+      "streamCount" : 3,
+      "secondsPlayed" : 346
+    }, {
+      "name" : "隐形人（电视剧《难哄》等待曲）",
+      "streamCount" : 2,
+      "secondsPlayed" : 469
+    }, {
+      "name" : "Let's Fall in Love for the Night",
+      "streamCount" : 2,
+      "secondsPlayed" : 373
+    }, {
+      "name" : "London",
+      "streamCount" : 2,
+      "secondsPlayed" : 320
+    }, {
+      "name" : "消散对白",
+      "streamCount" : 2,
+      "secondsPlayed" : 311
+    }, {
+      "name" : "Kill Bill",
+      "streamCount" : 2,
+      "secondsPlayed" : 306
+    }, {
+      "name" : "你，好不好？ - TVBS連續劇【遺憾拼圖】片尾曲",
+      "streamCount" : 2,
+      "secondsPlayed" : 287
+    }, {
+      "name" : "绿色",
+      "streamCount" : 2,
+      "secondsPlayed" : 269
+    } ],
+    "topArtists" : [ {
+      "name" : "Eric Chou",
+      "streamCount" : 5,
+      "secondsPlayed" : 1162
+    }, {
+      "name" : "Olivia Rodrigo",
+      "streamCount" : 5,
+      "secondsPlayed" : 987
+    }, {
+      "name" : "Dhruv",
+      "streamCount" : 5,
+      "secondsPlayed" : 832
+    }, {
+      "name" : "承桓",
+      "streamCount" : 5,
+      "secondsPlayed" : 674
+    }, {
+      "name" : "The Neighbourhood",
+      "streamCount" : 4,
+      "secondsPlayed" : 869
+    }, {
+      "name" : "Gracie Abrams",
+      "streamCount" : 4,
+      "secondsPlayed" : 649
+    }, {
+      "name" : "LBI利比",
+      "streamCount" : 4,
+      "secondsPlayed" : 594
+    }, {
+      "name" : "Lana Del Rey",
+      "streamCount" : 3,
+      "secondsPlayed" : 832
+    }, {
+      "name" : "Maroon 5",
+      "streamCount" : 3,
+      "secondsPlayed" : 656
+    }, {
+      "name" : "Malcolm Todd",
+      "streamCount" : 3,
+      "secondsPlayed" : 636
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Apocalypse",
+      "streamCount" : 3,
+      "secondsPlayed" : 870
+    }, {
+      "name" : "Who Knows",
+      "streamCount" : 3,
+      "secondsPlayed" : 678
+    }, {
+      "name" : "WILDFLOWER",
+      "streamCount" : 3,
+      "secondsPlayed" : 650
+    }, {
+      "name" : "Mrs Magic",
+      "streamCount" : 3,
+      "secondsPlayed" : 624
+    }, {
+      "name" : "Blue Hair",
+      "streamCount" : 3,
+      "secondsPlayed" : 601
+    }, {
+      "name" : "I miss you, I’m sorry",
+      "streamCount" : 3,
+      "secondsPlayed" : 501
+    }, {
+      "name" : "No One Noticed",
+      "streamCount" : 3,
+      "secondsPlayed" : 472
+    }, {
+      "name" : "Die On This Hill",
+      "streamCount" : 3,
+      "secondsPlayed" : 433
+    }, {
+      "name" : "bittersweet",
+      "streamCount" : 3,
+      "secondsPlayed" : 404
+    }, {
+      "name" : "Too Sweet",
+      "streamCount" : 2,
+      "secondsPlayed" : 375
+    } ],
+    "topArtists" : [ {
+      "name" : "Billie Eilish",
+      "streamCount" : 8,
+      "secondsPlayed" : 1684
+    }, {
+      "name" : "The Marías",
+      "streamCount" : 6,
+      "secondsPlayed" : 1087
+    }, {
+      "name" : "TV Girl",
+      "streamCount" : 6,
+      "secondsPlayed" : 1142
+    }, {
+      "name" : "Tame Impala",
+      "streamCount" : 5,
+      "secondsPlayed" : 1021
+    }, {
+      "name" : "sombr",
+      "streamCount" : 5,
+      "secondsPlayed" : 1002
+    }, {
+      "name" : "Olivia Rodrigo",
+      "streamCount" : 5,
+      "secondsPlayed" : 977
+    }, {
+      "name" : "Gracie Abrams",
+      "streamCount" : 5,
+      "secondsPlayed" : 824
+    }, {
+      "name" : "Cigarettes After Sex",
+      "streamCount" : 4,
+      "secondsPlayed" : 1084
+    }, {
+      "name" : "Daniel Caesar",
+      "streamCount" : 4,
+      "secondsPlayed" : 943
+    }, {
+      "name" : "Conan Gray",
+      "streamCount" : 4,
+      "secondsPlayed" : 919
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "the way things go",
+      "streamCount" : 2,
+      "secondsPlayed" : 321
+    }, {
+      "name" : "Happiness is a butterfly",
+      "streamCount" : 2,
+      "secondsPlayed" : 271
+    }, {
+      "name" : "WILDFLOWER",
+      "streamCount" : 2,
+      "secondsPlayed" : 260
+    }, {
+      "name" : "Those Eyes",
+      "streamCount" : 2,
+      "secondsPlayed" : 220
+    }, {
+      "name" : "wonder if she loves me",
+      "streamCount" : 2,
+      "secondsPlayed" : 159
+    }, {
+      "name" : "brutal",
+      "streamCount" : 2,
+      "secondsPlayed" : 143
+    }, {
+      "name" : "Apocalypse",
+      "streamCount" : 1,
+      "secondsPlayed" : 290
+    }, {
+      "name" : "Good Days",
+      "streamCount" : 1,
+      "secondsPlayed" : 279
+    }, {
+      "name" : "Escapism.",
+      "streamCount" : 1,
+      "secondsPlayed" : 272
+    }, {
+      "name" : "Here With Me",
+      "streamCount" : 1,
+      "secondsPlayed" : 242
+    } ],
+    "topArtists" : [ {
+      "name" : "SZA",
+      "streamCount" : 3,
+      "secondsPlayed" : 599
+    }, {
+      "name" : "Olivia Rodrigo",
+      "streamCount" : 3,
+      "secondsPlayed" : 362
+    }, {
+      "name" : "JVKE",
+      "streamCount" : 3,
+      "secondsPlayed" : 279
+    }, {
+      "name" : "The Weeknd",
+      "streamCount" : 2,
+      "secondsPlayed" : 444
+    }, {
+      "name" : "Lyn Lapid",
+      "streamCount" : 2,
+      "secondsPlayed" : 346
+    }, {
+      "name" : "Mokita",
+      "streamCount" : 2,
+      "secondsPlayed" : 325
+    }, {
+      "name" : "beabadoobee",
+      "streamCount" : 2,
+      "secondsPlayed" : 321
+    }, {
+      "name" : "Lana Del Rey",
+      "streamCount" : 2,
+      "secondsPlayed" : 271
+    }, {
+      "name" : "Billie Eilish",
+      "streamCount" : 2,
+      "secondsPlayed" : 260
+    }, {
+      "name" : "Zeph",
+      "streamCount" : 2,
+      "secondsPlayed" : 254
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-08",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "*",
+      "listeningPercentage" : 37.949072673036184
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Billie Eilish", "TV Girl", "The Marías", "Apocalypse", "Who Knows", "WILDFLOWER", "Space Song", "Mrs Magic", "Aperture" ],
+      "milestoneListeningSeconds" : 38472
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "{}",
+      "listeningPercentage" : 54.007109387623196
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "?",
+      "listeningPercentage" : 91.52982945539847
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "A Night To Remember",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "*",
+      "listeningPercentage" : 99.79959919839679
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "If I’m S, Can You Be My N?",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "The Neighbourhood",
+      "country" : "US",
+      "secondsPlayed" : 4365,
+      "marketAvgSecondsPlayed" : 713.89246
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "The Marías", "Drake", "Kendrick Lamar", "DIE TRYING", "Reflections", "Sienna", "Messy", "One More Dance", "30 For 30 (with Kendrick Lamar)" ],
+      "milestoneListeningSeconds" : 29333
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "{}",
+      "listeningPercentage" : 66.19788799359392
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Eric Chou",
+      "secondEntity" : "ZZ Top"
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "{}",
+      "listeningPercentage" : 77.96510947195878
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EVHGWrwldPRtj",
+      "listeningPercentage" : 73.58106388393993
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Die For You",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Rival Sons",
+      "secondEntity" : "TWS"
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "WILDFLOWER",
+      "streamCount" : 10
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "SZA", "sombr", "The Neighbourhood", "Good Days", "Reflections", "Memories", "Les", "undressed", "Sofia" ],
+      "milestoneListeningSeconds" : 37442
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
+      "listeningPercentage" : 46.87914464690159
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Don Toliver", "The Neighbourhood", "The Weeknd", "Heavy", "BIRDS OF A FEATHER", "Gabriela", "ExtraL (feat. Doechii)", "Sports car", "About You" ],
+      "milestoneListeningSeconds" : 31261
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "*",
+      "listeningPercentage" : 55.084442419706484
+    }
+  } ]
+}

@@ -1,0 +1,315 @@
+{
+  "stats" : [ {
+    "date" : "2026-02-02",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ ],
+    "topArtists" : [ ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-26",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "#19",
+      "streamCount" : 1,
+      "secondsPlayed" : 614
+    }, {
+      "name" : "Tha",
+      "streamCount" : 1,
+      "secondsPlayed" : 547
+    }, {
+      "name" : "#3",
+      "streamCount" : 1,
+      "secondsPlayed" : 464
+    }, {
+      "name" : "#1",
+      "streamCount" : 1,
+      "secondsPlayed" : 447
+    }, {
+      "name" : "#13",
+      "streamCount" : 1,
+      "secondsPlayed" : 440
+    }, {
+      "name" : "Windowlicker",
+      "streamCount" : 1,
+      "secondsPlayed" : 365
+    }, {
+      "name" : "The Gloves Don't Bite",
+      "streamCount" : 1,
+      "secondsPlayed" : 361
+    }, {
+      "name" : "Ageispolis",
+      "streamCount" : 1,
+      "secondsPlayed" : 323
+    }, {
+      "name" : "aisatsana [102]",
+      "streamCount" : 1,
+      "secondsPlayed" : 321
+    }, {
+      "name" : "Alberto Balsalm",
+      "streamCount" : 1,
+      "secondsPlayed" : 310
+    } ],
+    "topArtists" : [ {
+      "name" : "Aphex Twin",
+      "streamCount" : 29,
+      "secondsPlayed" : 7755
+    }, {
+      "name" : "Khruangbin",
+      "streamCount" : 3,
+      "secondsPlayed" : 517
+    }, {
+      "name" : "Faye Webster",
+      "streamCount" : 2,
+      "secondsPlayed" : 476
+    }, {
+      "name" : "Red Hot Chili Peppers",
+      "streamCount" : 1,
+      "secondsPlayed" : 496
+    }, {
+      "name" : "Mildlife",
+      "streamCount" : 1,
+      "secondsPlayed" : 361
+    }, {
+      "name" : "flipturn",
+      "streamCount" : 1,
+      "secondsPlayed" : 266
+    }, {
+      "name" : "Unknown Mortal Orchestra",
+      "streamCount" : 1,
+      "secondsPlayed" : 230
+    }, {
+      "name" : "Hotel Ugly",
+      "streamCount" : 1,
+      "secondsPlayed" : 226
+    }, {
+      "name" : "Pond",
+      "streamCount" : 1,
+      "secondsPlayed" : 214
+    }, {
+      "name" : "Mild High Club",
+      "streamCount" : 1,
+      "secondsPlayed" : 204
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Apocalypse Dreams",
+      "streamCount" : 1,
+      "secondsPlayed" : 356
+    }, {
+      "name" : "Gamesofluck",
+      "streamCount" : 1,
+      "secondsPlayed" : 348
+    }, {
+      "name" : "III. Life: The Biggest Troll [Andrew Auernheimer]",
+      "streamCount" : 1,
+      "secondsPlayed" : 342
+    }, {
+      "name" : "Natural High (Even Higher Learning)",
+      "streamCount" : 1,
+      "secondsPlayed" : 289
+    }, {
+      "name" : "Sweet Life",
+      "streamCount" : 1,
+      "secondsPlayed" : 262
+    }, {
+      "name" : "Cariño",
+      "streamCount" : 1,
+      "secondsPlayed" : 258
+    }, {
+      "name" : "Don't Don't Do It!",
+      "streamCount" : 1,
+      "secondsPlayed" : 257
+    }, {
+      "name" : "Multi-Love",
+      "streamCount" : 1,
+      "secondsPlayed" : 250
+    }, {
+      "name" : "Beastly",
+      "streamCount" : 1,
+      "secondsPlayed" : 250
+    }, {
+      "name" : "Scottie Beam",
+      "streamCount" : 1,
+      "secondsPlayed" : 244
+    } ],
+    "topArtists" : [ {
+      "name" : "Freddie Gibbs",
+      "streamCount" : 3,
+      "secondsPlayed" : 576
+    }, {
+      "name" : "The Alchemist",
+      "streamCount" : 3,
+      "secondsPlayed" : 474
+    }, {
+      "name" : "Tame Impala",
+      "streamCount" : 2,
+      "secondsPlayed" : 591
+    }, {
+      "name" : "Childish Gambino",
+      "streamCount" : 2,
+      "secondsPlayed" : 573
+    }, {
+      "name" : "N.E.R.D",
+      "streamCount" : 2,
+      "secondsPlayed" : 413
+    }, {
+      "name" : "Gorillaz",
+      "streamCount" : 2,
+      "secondsPlayed" : 399
+    }, {
+      "name" : "Mac DeMarco",
+      "streamCount" : 2,
+      "secondsPlayed" : 428
+    }, {
+      "name" : "MIKE",
+      "streamCount" : 2,
+      "secondsPlayed" : 297
+    }, {
+      "name" : "Parcels",
+      "streamCount" : 1,
+      "secondsPlayed" : 348
+    }, {
+      "name" : "Frank Ocean",
+      "streamCount" : 1,
+      "secondsPlayed" : 262
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-02-01",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Aphex Twin",
+      "listeningPercentage" : 64.35684647302905
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EQqedj0y9Uwvu",
+      "listeningPercentage" : 79.32252367956333
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EQqedj0y9Uwvu",
+      "listeningPercentage" : 46.855606123293335
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EQqedj0y9Uwvu",
+      "listeningPercentage" : 94.09359382099046
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EIcVkEtbzdTRx",
+      "listeningPercentage" : 43.24379324379324
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Perfect Defect",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Calmera",
+      "secondEntity" : "Vita"
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EIdDnHQZhcBHB",
+      "listeningPercentage" : 84.67389545233857
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Radiohead",
+      "country" : "US",
+      "secondsPlayed" : 7457,
+      "marketAvgSecondsPlayed" : 991.44464
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EIdDnHQZhcBHB",
+      "milestoneListeningSeconds" : 57421
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Khruangbin",
+      "listeningPercentage" : 43.985419198055894
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "L'amore dice Ciao (Main Titles) - Remastered",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EP6YuccBxUcC1",
+      "listeningPercentage" : 40.876931670080054
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1E4ow1baELNnKm",
+      "listeningPercentage" : 30.40208674417959
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "The Way She Dances",
+      "streamCount" : 14
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Red Hot Chili Peppers",
+      "country" : "US",
+      "secondsPlayed" : 11803,
+      "marketAvgSecondsPlayed" : 731.62463
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Yeah You",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "N.E.R.D", "Rage Against The Machine", "Red Hot Chili Peppers", "Tape You", "Run To The Sun", "Baby Doll", "Sir Psycho Sexy", "Yeah You", "Breakout" ],
+      "milestoneListeningSeconds" : 33934
+    }
+  } ]
+}

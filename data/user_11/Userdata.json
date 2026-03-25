@@ -1,0 +1,17 @@
+{
+  "username": "whitekimberly",
+  "email": "wstout@example.org",
+  "country": "US",
+  "createdFromFacebook": false,
+  "facebookUid": null,
+  "birthdate": "1998-04-25",
+  "gender": "male",
+  "postalCode": null,
+  "mobileNumber": null,
+  "mobileOperator": null,
+  "mobileBrand": null,
+  "creationTime": "2017-03-22",
+  "assuredEstimatedAge": null,
+  "assuredAgeMethod": null,
+  "assuredAgeTimestamp": null
+}

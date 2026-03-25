@@ -1,0 +1,19 @@
+{
+  "festivalId" : "govball2026",
+  "userId" : "41c7a8e1886c40a1a26aa8561f7b9812",
+  "totalArtistsMatched" : 27,
+  "userLineupMatchPercentile" : 2,
+  "festivalPersona" : "WRISTBAND VETERAN",
+  "topArtists" : [ {
+    "name" : "Lorde"
+  }, {
+    "name" : "Dominic Fike"
+  }, {
+    "name" : "flipturn"
+  }, {
+    "name" : "A$AP Rocky"
+  }, {
+    "name" : "Del Water Gap"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}
