@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments (Poetry)
+.venv/
+*.env
+/venv/
+
+# Poetry cache (optional, large)
+# ~/.cache/pypoetry/  # usually on your local machine, not in repo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# MacOS hidden files
+.DS_Store
+
+# Data files (if you don't want to commit them)
+data/*.csv
+data/*.json
