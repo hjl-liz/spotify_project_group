@@ -13,8 +13,6 @@ This project analyzes Spotify user listening behavior and evaluates the accuracy
 ## Project Structure
 
 * `data/` → User data and track metadata
-* `notebooks/` → Analysis notebooks
-* `src/` → Reusable Python functions
 * `pyproject.toml` → Dependency management (Poetry)
 
 ## Setup Instructions
