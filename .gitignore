@@ -1,26 +1,39 @@
-# Python cache files
+# Python / Poetry
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
+*$py.class
 
-# Virtual environments (Poetry)
+# Poetry virtual environments
+/.venv/
+*.venv/
 .venv/
-*.env
-/venv/
+.venv/**
 
-# Poetry cache (optional, large)
-# ~/.cache/pypoetry/  # usually on your local machine, not in repo
+# Poetry lock file is tracked (we want this!), but caches can be ignored
+poetry.lock
+*.egg-info/
+dist/
+build/
 
-# Jupyter Notebook checkpoints
+
+# Jupyter Notebook
+# Checkpoints
 .ipynb_checkpoints/
 
-# VS Code settings
-.vscode/
 
-# MacOS hidden files
+# macOS
 .DS_Store
 
-# Data files (if you don't want to commit them)
+
+# VS Code
+.vscode/
+
+
+# Data files
+# Ignore all data files by default; track only what you want in Git
 data/*.csv
+# Keep the sample for collaboration
+!data/sample.csv
 data/*.json
+data/*.parquet
